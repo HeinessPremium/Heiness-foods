@@ -68,7 +68,7 @@ export function FloatingMenu({
           Tap a dish to order
         </span>
         <h2 className="text-[1.5rem] font-semibold tracking-tight text-ink sm:text-[1.8rem]">
-          Today's favourites, floating your way
+          Today&apos;s favourites, floating your way
         </h2>
       </div>
 
